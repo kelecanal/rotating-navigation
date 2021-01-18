@@ -9,4 +9,4 @@
    - Rotate the webpage
    - Render navigation routes
 
-### Here is a link to the live repo! [Link](https://github.com)
+### Here is a link to the live repo! [Link](https://kelecanal.github.io/rotating-navigation/)
